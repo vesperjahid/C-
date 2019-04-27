@@ -1,0 +1,7 @@
+cse,
+student,
+,
+pure,
+think,
+faculty,
+csefaculty
